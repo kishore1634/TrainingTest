@@ -6,6 +6,7 @@ public class Main {
 		
 		System.out.println("Hello team!");
 		System.out.println("First change!");
+		System.out.println("Second change!");
 
 	}
 
